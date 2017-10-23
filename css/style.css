@@ -1,0 +1,470 @@
+@media only screen and (min-width: 1023px) {  
+
+body {
+	margin: 0;
+	padding: 0; 
+}
+.header {
+	margin: 5px;
+	padding: 0px;
+	background-color: white;
+}
+.nav {
+	padding: 5px 0;
+	background-color: black;
+	position: -webkit-sticky;
+}
+
+.nav a{
+	display: inline-block;
+	display: inline;left: 
+	width: 100px;
+	height: 20px; /*pueden ser porcentajes*/
+	padding: 5px;
+	margin: 0px 10px;
+	background: #FFCA28  ;
+	text-align: center;
+	font-size: 18px;
+}
+.header, .nav {
+	text-align: center;
+	color: #fff;
+}
+
+.header {
+	text-align: center;
+	color: #fff;
+}
+.content {
+	width: 600px;
+	margin: 10px auto 100px;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+.logo{
+	width: 10px;
+	padding-left: : 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+
+.entradas{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	color: black;
+}
+
+.footer{
+	bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+.menu-navegacion {
+	text-align: center;
+}
+
+.texto-vertical-3 {
+  width:20px;
+  word-wrap: break-word;
+  text-align:center;
+}
+
+.texto-vertical-2 {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+li{
+	display: inline;
+}
+
+li:hover a{ /*al pasar el cursor cambia el color*/
+	background: gray;
+}
+
+ul{
+	list-style: 
+}
+
+h4{
+	color: #fff;
+ }
+
+table, th, td{
+	border: 0px ;
+	text-align: justify; 
+}
+
+h1{
+	color: #000;
+}
+
+td span { display: block; font-size: 58px;}
+
+}
+
+.tablaContacto{
+	border: 3px dotted yellow;
+	text-align: justify; 
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) { 
+body {
+	margin: 0;
+	padding: 0; 
+	background: #E8F5E9 ;
+}
+.header {
+	margin: 5px;
+	padding: 0px;
+	background-color: white;
+}
+.nav {
+	padding: 5px 0;
+	background-color: black;
+	position: -webkit-sticky;
+}
+
+.nav a{
+	display: inline-block;
+	display: inline;left: 
+	width: 70px;
+	height: 20px; /*pueden ser porcentajes*/
+	padding: 5px;
+	margin: 0px 10px;
+	background: gray;
+	text-align: center;
+	font-size: 18px;
+}
+.header, .nav {
+	text-align: center;
+	color: #fff;
+}
+
+.header {
+	text-align: center;
+	color: #fff;
+}
+.content {
+	width: 600px;
+	margin: 10px auto 100px;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+.logo{
+	width: 10px;
+	padding-left: : 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+
+.entradas{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	color: black;
+}
+
+.footer{
+	bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+.menu-navegacion {
+	text-align: center;
+}
+
+li{
+	display: inline;
+}
+
+li:hover a{ /*al pasar el cursor cambia el color*/
+	background: gray;
+}
+
+ul{
+	list-style: 
+}
+
+h4{
+	color: #fff;
+ }
+
+table, th, td{
+	border: 0px ;
+	text-align: justify; 
+}
+
+h1{
+	color: #000;
+}
+
+td span { display: block; font-size: 58px;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) and (min-width: 300px)  {
+body {
+	margin: 0;
+	padding: 0; 
+	background: #F3E5F5  ;
+}
+.header {
+	margin: 5px;
+	padding: 0px;
+	background-color: white;
+}
+.nav {
+	padding: 5px 0;
+	background-color: black;
+	position: -webkit-sticky;
+}
+
+.nav a{
+	display: inline-block;
+	display: inline;left: 
+	width: 100px;
+	height: 20px; /*pueden ser porcentajes*/
+	padding: 5px;
+	margin: 0px 10px;
+	background: gray;
+	text-align: center;
+	font-size: 18px;
+}
+.header, .nav {
+	text-align: center;
+	color: #fff;
+}
+
+.header {
+	text-align: center;
+	color: #fff;
+}
+.content {
+	width: 600px;
+	margin: 10px auto 100px;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+.logo{
+	width: 10px;
+	padding-left: : 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+
+.entradas{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	color: black;
+}
+
+.footer{
+	bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+.menu-navegacion {
+	text-align: center;
+}
+
+
+li{
+	display: inline;
+}
+
+li:hover a{ /*al pasar el cursor cambia el color*/
+	background: gray;
+}
+
+ul{
+	list-style: 
+}
+
+h4{
+	color: #fff;
+ }
+
+table, th, td{
+	border: 0px ;
+	text-align: justify; 
+}
+
+h1{
+	color: #000;
+}
+
+td span { display: block; font-size: 58px;}
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 500px) { 
+.pesentacion{
+	width: 50%;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background: #E1F5FE ; 
+}
+.header {
+	margin: 5px;
+	padding: 0px;
+	background-color: white;
+}
+.nav {
+	padding: 5px 0;
+	background-color: black;
+	position: -webkit-sticky;
+}
+
+.nav a{
+	display: inline-block;
+	display: inline;left: 
+	width: 100px;
+	height: 20px; /*pueden ser porcentajes*/
+	padding: 5px;
+	margin: 0px 10px;
+	background: gray;
+	text-align: center;
+	font-size: 18px;
+}
+.header, .nav {
+	text-align: center;
+	color: #fff;
+}
+
+.header {
+	text-align: center;
+	color: #fff;
+}
+.content {
+	width: 600px;
+	margin: 10px auto 100px;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+.logo{
+	width: 10px;
+	padding-left: : 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+
+.entradas{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	color: black;
+}
+
+.footer{
+	bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+.menu-navegacion {
+	text-align: center;
+}
+
+li{
+	display: inline;
+}
+
+li:hover a{ /*al pasar el cursor cambia el color*/
+	background: gray;
+}
+
+ul{
+	list-style: 
+}
+
+h4{
+	color: #fff;
+ }
+
+table, th, td{
+	border: 0px ;
+	text-align: justify; 
+}
+
+h1{
+	color: #000;
+}
+
+td span { display: block; font-size: 30px;}
+
+}
